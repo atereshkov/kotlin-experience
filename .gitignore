@@ -3,6 +3,9 @@
 .idea/**/tasks.xml
 .idea/dictionaries
 
+# Build
+build/*
+
 # Sensitive or high-churn files:
 .idea/**/dataSources/
 .idea/**/dataSources.ids
