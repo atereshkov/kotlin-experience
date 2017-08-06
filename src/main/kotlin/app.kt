@@ -15,4 +15,13 @@ fun main(args: Array<String>) {
     // string templates:
     printSimpleStringTemplate(10)
     printStringLength("OlejaCpp")
+
+    // conditional expressions:
+    println(max(10, 20))
+    println(max2(100, 200))
+    println(max3(1000, 2000))
+
+    whenExpression(2)
+    whenExpression2(15)
+    whenExpression3(20)
 }
